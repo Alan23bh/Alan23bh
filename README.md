@@ -1,23 +1,31 @@
-## Hi there 👋
+# Hey 👋 What's up?
 
-My name is Alan and I am a Front-End Web Developer based in Florida 🇺🇸.
+I'm Alan, a Front-End Web Developer based in Central Florida. I focus on building clean, modern, and user-friendly web applications using React, Next.js, and TypeScript.
 
 ---
 
-### About Me 🖥️
+### 👨‍💻 About Me
 
-- 🌱 I’ve been coding since 2022
-- 🎓 Currently learningfront end technologies like Next.js, React, TypeScript and modern UI design.
-- 💡 I love building clean, intuitive, and useful web experiences.
-- 🎯 Goal: Get my first dev job and grow into a strong React/Next.js developer.
+- 🚀 Currently learning and building with **Next.js, React, and TypeScript**
+- 🎯 Goal: Get my first Front-End Developer role and keep leveling up daily
+- 💡 Passion: Turning ideas into real, functional, visually appealing web experiences
+- 🧠 I enjoy solving UI problems and making things look and feel smooth
+- 🌎 Bilingual: English & Spanish
 
-**Front End Languages**
+---
+
+### 🛠 Tech Stack
+
+**Front End**
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap" />
 
-**Front End Techs**
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+**Back End / Tools**
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,git,github,vercel" />
 
+**Design / Workflow**
+<img src="https://skillicons.dev/icons?i=figma,vscode" />
 
+---
 
 
 
