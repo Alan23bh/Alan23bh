@@ -1,6 +1,6 @@
-# Hey 👋 What's up?
 
-I'm Alan, a Front-End Web Developer based in Central Florida. I focus on building clean, modern, and user-friendly web applications using React, Next.js, and TypeScript.
+
+# Alan Hernandez | Front-End Web Developer
 
 ---
 
