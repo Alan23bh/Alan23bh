@@ -5,9 +5,15 @@
 ---
 
 ### 👨‍💻 About Me
-Front-End Developer specializing in React, Next.js, and TypeScript.
+Front-End Developer specializing in Angular, React, Next.js, and TypeScript, with experience building production-style dashboards and implementing **end-to-end testing with Playwright and CI automation**.
 
 ---
+### 🧪 Testing
+
+- Playwright (E2E testing)
+- Cross-browser test coverage (Chromium, Firefox)
+- GitHub Actions CI test automation
+- Real user flows tested (login, navigation, dashboard widgets, search/filter flows)
 
 ### 🛠 Tech Stack
 
