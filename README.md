@@ -1,6 +1,6 @@
 
 
-# Alan Hernandez | Front-End Web Developer
+# Alan Hernandez | Web Developer
 
 ---
 
